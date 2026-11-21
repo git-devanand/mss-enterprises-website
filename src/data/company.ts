@@ -19,7 +19,7 @@ export const COMPANY = {
     country: "IN",
   },
   phones: ["7985816594", "7233839433", "8808505944"] as const,
-  whatsappNumber: process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || "917233839433",
+  whatsappNumber: process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || "917985816594",
   email: "mssenterprises723@gmail.com",
   mapEmbedUrl:
     "https://www.google.com/maps?q=Plot+No.+18,+19,+Nehru+Vihar,+Kanchana+Bihari+Marg,+Kalyanpur+Ring+Road,+Lucknow,+Uttar+Pradesh+226022,+India&output=embed",
